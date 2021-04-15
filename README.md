@@ -12,7 +12,13 @@ Libraries used in this problem statement<br>
 ![image](https://user-images.githubusercontent.com/40769717/110239988-c9487b00-7f6f-11eb-97bd-d300d2ffaad3.png)<br>
 For visulisation Libraries used are:<br> ![image](https://user-images.githubusercontent.com/40769717/110240133-7cb16f80-7f70-11eb-86ab-4a187c7bdd04.png)
 ![image](https://user-images.githubusercontent.com/40769717/110240152-8c30b880-7f70-11eb-9131-fb9cab53d6c6.png)<br>
-![TF](https://user-images.githubusercontent.com/40769717/114852807-c0fe1e00-9e00-11eb-982f-b56047e0225a.png)
+![TF](https://user-images.githubusercontent.com/40769717/114852807-c0fe1e00-9e00-11eb-982f-b56047e0225a.png)<br>
+Here we have used multiple models like
+1. LSTM and GRU with one hot encoding of characters.
+2. LSTM and GRU with character tokenization 
+3. LSTM with character tokenization and Bahandanau Attention
+4. LSTM with fasttext word embedding and Bahadanau Attention
+
 
 
 
